@@ -1,0 +1,212 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Crypto Beginner Guide</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <nav id="navbar" class="navbar">
+<header class="beginner-guide" id="beginner-guide">Cryptocurrency Beginner Guide</header>
+  <ul class="list">
+    <li> <a class="nav-link" href="#Cryptocurrency_Introduction">
+    Cryptocurrency Introduction</a></li>
+    <li> <a class="nav-link" href="#How_Cryptocurrency_Works">How Cryptocurrency Works</a></li>
+    <li> <a class="nav-link" href="#Blockchain_Technology">Blockchain Technology</a></li>
+    <li> <a class="nav-link" href="#Crypto_Mining">Crypto Mining</a></li>
+    <li> <a class="nav-link" href="#Crypto_Exchange">Crypto Exchange</a></li>
+    <li> <a class="nav-link" href="#Polpular_Crypto">Polpular Crypto</a></li>
+     <li> <a class="nav-link" href="#Crypto_Coin_Dashboard">Crypto Coin Dashboard</a></li>
+  </ul>
+  </nav>
+  <main id="main-doc" class="main-doc">
+  <section class="main-section" id="Cryptocurrency_Introduction">
+      <header class="crypto-header-section">Cryptocurrency Introduction</header>
+      <p>Cryptocurrency, often called “crypto,” is any type of decentralized, digital currency that’s based on cryptography. Those three terms are key to understanding the thousands of types of crypto being traded today.</p>
+      <h6>Decentralised</h6>
+      <p>Decentralized means that cryptocurrency isn’t issued by a central authority like a government or bank, the way the dollar, euro, yen, and other fiat currencies are. Instead, cryptocurrencies are created, exchanged, and overseen by a distributed peer-to-peer network.</p>
+      <h6>Digital</h6>
+      <p>Crypto is digital, meaning two things. First, with a couple of exceptions, the value of most crypto is not pegged to a fiat currency like the dollar or euro, nor is it determined by a precious metal like gold. And though people may refer to crypto in physical terms (e.g., as coins), crypto is generated and traded in only a digital format.</p>
+      <h6>Cryptography</h6>
+      <p>Cryptography refers to the mathematical technique used to secure each unit of cryptocurrency and ensure it can’t be copied. Most crypto exists on a blockchain platform. Blockchain is the digital ledger that records most crypto transactions. This use of blockchain technology as a foundational element for cryptocurrency began in 2009, in tandem with the launch of Bitcoin. But blockchain technology is evolving rapidly, and a range of other industries are exploring its potential applications as well.</p>
+    </section>
+    <section class="main-section" id="How_Cryptocurrency_Works">
+      <header class="crypto-header-section">How Cryptocurrency Works</header>
+      <p>Today there are thousands of cryptocurrencies, and while many are designed to provide some new feature or function on a given blockchain platform, most are founded on similar principles to those that established Bitcoin. Crypto is secured by a peer-to-peer network, and users can trade or transfer value — globally and almost instantly, 24/7 — without relying on a middleman like a bank or payment processor.</p>
+      <p>Cryptocurrencies are considered secure because they employ a “trustless” system of verification for all transactions. This means that users don’t have to rely on a third party to verify transactions: the system itself is self-governing.</p>
+      <p>As of November 2021, estimates of the number of cryptocurrency you can trade range from about 6,000 coins to over 10,000, with a total market capitalization of over $2 trillion. Currently, the biggest cryptocurrencies by market capitalization are Bitcoin, Ethereum, Binance Coin, and Tether. Cryptocurrencies are generally stored in digital wallets, commonly a blockchain wallet, which allows users to manage and trade different crypto.</p>
+    </section>
+    <section class="main-section" id="Blockchain_Technology">
+      <header class="crypto-header-section">Blockchain Technology</header>
+      <p>The widespread use of blockchain technology as the underlying platform for most forms of crypto began in 2009, when an innovative use of blockchain enabled the successful launch of Bitcoin. For that reason, many people think of blockchain and cryptocurrency as synonymous, when in fact blockchain technology has a wide variety of applications.
+Blockchain is a digital, append-only ledger that can be used to track or record almost any type of asset, from goods and services to patents, smart contracts, and more. It’s transparent, meaning the transactions on a public blockchain are accessible to anyone, and unlike a physical system of record keeping, the record of transactions is designed to be permanent and immutable.</p>
+      <p>Why is it called blockchain?<br>
+The reason blockchain records are theoretically unchangeable is because the system is built from blocks of data that are chained together in chronological order (hence the name blockchain) so that all transactions are visible to everyone on the network. Blockchain technology relies on cryptography to secure these transactions and, in the case of many types of crypto, to mine coins and tokens.</p>
+    </section>
+    <section class="main-section" id="Crypto_Mining">
+      <header class="crypto-header-section">Crypto mining</header>
+      <p>Crypto miners use special computer hardware to do the complex mathematical cryptography required to confirm each transaction on a blockchain. This process, called “proof of work” (PoW), requires miners to complete billions of calculations in order to verify a block of transactions. Proof of stake (PoS) is another consensus mechanism by which crypto is created, but PoW is common to many forms of crypto.</p>
+      <p>Crypto mining is highly competitive. The process relies on a network-wide consensus that essentially backs the validity of each transaction, even without a central authority. Once a miner has completed a certain number of calculations to verify a block of transactions on a given blockchain platform, they may be rewarded with new coins — if they are the first to verify the block.</p>
+      <p>Because proof-of-work crypto mining requires immense amounts of energy, there are concerns that the types of crypto that rely on PoW may be harmful to the environment.</p>
+      <p>Why is blockchain considered secure?<br>
+A blockchain runs on a decentralized network of computers, called nodes, which enable a form of consensus (peer-to-peer) confirmation that can drive faster, more secure transactions. The distributed, self-governing nature of blockchain thus makes fraud and duplication far more difficult compared with legacy record-keeping systems.
+The combination of speed, security, and transparency has not only enabled the growth of cryptocurrencies worldwide, many other industries are now exploring blockchain’s uses as well.</p>
+    </section>
+    <section class="main-section" id="Crypto_Exchange">
+      <header class="crypto-header-section">Crypto Exchange</header>
+      <p>With the exception of emerging crypto-based securities, it’s generally not possible to trade crypto on a traditional exchange, which is why you need a crypto exchange. There are three main types of crypto exchanges:</p>
+      <ul class="crypto-exchange">
+        <li>Centralized</li>
+        <li>Dentralized</li>
+        <li>Hybrid</li>
+      </ul>
+      <h6>Centralized</h6>
+      <p>A centralized cryptocurrency exchange is a platform where cryptos are bought and sold, with the help of a third party to conduct these transactions. On a centralized exchange you can use a traditional, a.k.a. fiat currency, like the dollar to execute trades, as well as trading crypto itself.</p>
+      <h6>Decentralized</h6>
+      <p>Decentralized exchanges (DEX) are more aligned with the spirit of crypto, in that these exchanges allow crypto investors to trade directly with each other, without the need for a middleman. In theory, a DEX might be more secure since there’s no central platform that can be hacked. Also, without the need for third parties, you might see lower fees and faster transaction speeds on a DEX.</p>
+      <h6>Hybrid</h6>
+      <p>Hybrid exchanges are less common than either centralized or decentralized exchanges. They aim to combine features of both: e.g., the liquidity of a centralized exchange and the security and anonymity of a DEX.When choosing the exchange where you prefer to trade crypto, there are other issues to consider, including ease of use, whether your funds might be insured, as well as other considerations.</p>
+    </section>
+    <section class="main-section" id="Polpular_Crypto">
+      <header class="crypto-header-section">Polpular Crypto</header>
+      <ul class="popoular-crypto">
+        <li>Bitcoin</li>
+        <li>Ethereum</li>
+        <li>Tether</li>
+        <li>BNB</li>
+        <li>USD coin</li>
+        <li>XRP</li>
+        <li>Cardano</li>
+        <li>Litecoin</li>
+        </ul>
+    </section>
+    <section class="main-section" id="Crypto_Coin_Dashboard">
+      <header class="crypto-header-section">Crypto Coin Dashboard</header>
+<p>
+Did you know you can easily create a crypto coin dashboard with little coding experience?
+</p>
+<p>To get started open a notepad note on your computer. Once you know the tricker symbols you want to track, you can paste the following code example into a notepad. </p>
+<code>&lt;!doctype html></code><br>
+<code>&lt;html lang="en"></code><br>
+<code>&lt;title>Crypto Dashboard&lt;/title></code><br>
+<code>&lt;meta name="viewport" content="width=device-width, initial-scale=1.0"></code><br>
+<code>&lt;meta charset="utf-8"/></code>
+<div class="more-info">To find out more details please follow the link below: 
+  <br>
+  <a class="last-link" href="https://nftsguru.com/make-nft/crypto-coin-dashboard-html/" target="_blank">https://nftsguru.com/make-nft/crypto-coin-dashboard-html/</a></div>
+    </section>
+    </main>
+  </body>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+body {background-image: url("https://slidescorner.com/wp-content/uploads/2023/01/01-Bitcoin-Ether-and-Famous-Cryptocurrency-Coins-Flying-Free-PPT-Background-by-SlidesCorner.com_.jpg");
+   color: white;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 1.4rem;
+   margin:0rem;
+   padding:0rem;}
+
+   .navbar{
+  background:black;
+  position:fixed;
+   width:auto;
+   height:100vh;
+   margin:0px;
+   top:0;
+   padding-top:1.5rem;
+   overflow-y: auto;}
+
+ .beginner-guide{
+  display: block;
+  text-decoration:none;
+  padding:1.5rem 0.6rem;
+  color:lightblue;
+  font-weight:bold;
+  font-size:1.5rem;
+  margin-top: 0.7rem;
+   }
+
+   ul {
+  list-style-type: none;
+  margin: 0.5rem 0.5rem 0rem 0.5rem;
+  padding: 0;
+}
+
+li a {
+  display: block;
+  text-decoration: none;
+  padding: 2rem 0.5rem;
+  color: lightblue;
+}
+
+li a:hover {
+  background-color: black;
+  color: white;
+}
+li a:active {
+  background-color: rgb(3, 3, 78);
+  color: white;
+}
+
+.main-doc{
+  display:flex;
+  flex-direction:column;
+  margin: 0rem 2rem 9rem 26rem;
+  padding: 0rem 2rem 0rem 0rem;
+}
+.crypto-header-section{
+  color:lightblue;
+  display:flex;
+  flex-direction:column;
+  margin: 3.85rem 0rem 1rem 0rem;
+  padding: 0rem 1rem 0rem 0rem;}
+
+  p{margin-top:0.7rem;
+  margin-bottom:0.7rem;
+  padding:2.5;}
+
+  .crypto-exchange, h6{font-size: 1.4rem;
+  margin-top:0.8rem;
+  margin-bottom:0.8rem;
+  padding-top:0.6rem;
+  padding-bottom:0.6rem;}
+
+  .popoular-crypto,.crypto-exchange{list-style:inside;}
+
+  .more-info{margin-top:2rem;
+  margin-bottom:2rem;}
+
+  .last-link{color:lightblue;}
+  
+  @media (max-width: 768px) {
+  .navbar {
+    padding-top: 1rem; 
+    font-size: 1rem;width: 50%;  
+}
+ .beginner-guide {
+    font-size: 1rem;
+    padding-top:2.1rem; 
+    padding-left:0.8rem;
+  }
+  li a {padding:1.5rem 0.3rem;}
+  .main-doc {
+    margin: 0rem 0rem 0rem 8.5rem; 
+    padding: 0rem 1rem; 
+    font-size:0.9rem;
+  width: 85%; }
+  p, h6,.crypto-exchange{
+    font-size: 0.9rem;
+  }
+  .crypto-exchange{padding-left:0rem;
+  margin-left:0rem;}
+
+}
+
+** end of undefined **
+
